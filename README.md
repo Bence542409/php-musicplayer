@@ -1,5 +1,5 @@
 # php-musicplayer
-<p>PHP simple music player.</p>
+<p>Simple PHP music player.</p>
 <br />
 <p>Built by me and Gemini.</p>
 <p>The files are in Hungarian, but you can change it as you like.</p>
